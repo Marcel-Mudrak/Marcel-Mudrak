@@ -2,7 +2,7 @@
 
 ### About me 🙋‍♂️
 - 🔭 Currently working in Utopia Software
-- 🌱 I’m currently learning Bloc
+- 🌱 Learning Bloc & Hooks
 
 
 <!--
