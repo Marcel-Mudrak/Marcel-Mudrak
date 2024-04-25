@@ -1,6 +1,9 @@
 ![Header](./github-header-image-2.png)
 
-### Hi there 👋
+### About me 🙋‍♂️
+- 🔭 Currently working in Utopia Software
+- 🌱 I’m currently learning Bloc
+
 
 <!--
 **Marcel-Mudrak/Marcel-Mudrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
